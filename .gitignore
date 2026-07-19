@@ -216,3 +216,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+pyrefly.toml
+.vscode
+# ChromaDB
+chroma_db/
+.chroma/
+chroma.sqlite3
+
+
